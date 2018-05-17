@@ -2,7 +2,7 @@
 
 Hello humons,
 
-copying and pasting Linus Torvals quotes is so much fun:
+copying and pasting Linus Torvalds quotes is so much fun:
 
 "Give me one reason why it was written in that idiotic way with two different conditionals, and a shiny new non-standard function that wants particular compiler support to generate even half-way sane code, and even then generates worse code? A shiny function that we have never ever needed anywhere else, and that is just compiler-masturbation."
 
